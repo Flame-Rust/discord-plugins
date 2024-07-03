@@ -1,0 +1,35 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2024-04-10 12:16+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: redgettext 3.4.2\n"
+
+#: recipes\recipes.py:33
+#, docstring
+msgid "A cog to search and show a cooking recipe!"
+msgstr ""
+
+#: recipes\recipes.py:148 recipes\recipes.py:166
+msgid "No recipe found."
+msgstr ""
+
+#: recipes\recipes.py:154
+msgid ""
+"Error in parsing the response.\n"
+"{error}"
+msgstr ""
+
+#: recipes\recipes.py:171
+msgid "View results on Food52"
+msgstr ""
+
+#: recipes\view.py:47
+msgid "View recipe on Food52"
+msgstr ""
