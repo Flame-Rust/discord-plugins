@@ -90,7 +90,7 @@ msgid "Ticket Created"
 msgstr ""
 
 #: tickettool\ticket.py:304
-msgid "Thank you for creating a ticket on this server! owowow"
+msgid "Thank you for creating a ticket on this server!"
 msgstr ""
 
 #: tickettool\ticket.py:315

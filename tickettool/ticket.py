@@ -301,7 +301,7 @@ class Ticket:
             False,
             author=self.created_by,
             title=_("Ticket Created"),
-            description=_("Thank you for creating a ticket on this server! owowo"),
+            description=_("Thank you for creating a ticket on this server!"),
             reason=self.reason,
         )
         if config["ticket_role"] is not None and self.owner:
