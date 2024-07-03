@@ -61,7 +61,7 @@ class TicketTool(settings, DashboardIntegration, Cog):
                 "user_can_close": True,
                 "delete_on_close": False,
                 "color": 0xFF5858,
-                "thumbnail": "https://images-ext-1.discordapp.net/external/wzGbEsxbswg2B32gARAE27mJYs3JieG-Ouv40mm_EN8/https/i.imgur.com/gO8emLC.png?format=webp&quality=lossless",
+                "thumbnail": "https://i.imgur.com/gO8emLC.png",
                 "audit_logs": False,
                 "close_confirmation": False,
                 "emoji_open": "❓",

@@ -300,8 +300,12 @@ class Ticket:
             self,
             False,
             author=self.created_by,
-            title=_("Ticket Created"),
-            description=_("Thank you for creating a ticket on this server!"),
+            title=_("🎫 Ticket Creado 🎫"),
+            description=_(
+                "¡Gracias por crear un ticket en este servidor! Nuestro equipo de soporte está trabajando activamente para atenderte lo antes posible. Por favor, mantén la calma y estaremos contigo en breve.\n"
+                "\n"
+                "🔔 Recuerda: Mantén un tono respetuoso mientras esperas la respuesta. Estamos comprometidos en resolver tu solicitud rápidamente."
+            ),
             reason=self.reason,
         )
         if config["ticket_role"] is not None and self.owner:
