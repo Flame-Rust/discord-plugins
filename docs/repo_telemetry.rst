@@ -5,7 +5,7 @@ Thanks to Vexed for this documentation and a part of the code to use Telemetry w
 Opt-in Telemetry and Error Reporting
 ====================================
 
-I have **opt-in** telemetry and error reporting built into all of my (`github.com/AAA3A-AAA3A/AAA3A-cogs <https://github.com/AAA3A-AAA3A/AAA3A-cogs>`_) cogs.
+I have **opt-in** telemetry and error reporting built into all of my (`github.com/AAA3A-AAA3A/discord-plugins <https://github.com/AAA3A-AAA3A/discord-plugins>`_) cogs.
 
 Enabling or disabling it affects all of my cogs. If this command `[p]AAA3A_utils telemetrywithsentry` doesn't exist, then no data is being sent.
 This is likely because you haven't updated yet.

@@ -1,7 +1,7 @@
 .. _main:
 
 ==========
-AAA3A-cogs
+discord-plugins
 ==========
 
 This documentation is here for the support of my redbot cogs. Everything should be here that you need, if you
@@ -11,7 +11,7 @@ need further support you can mention me in the #support_other-cogs in the `cog s
 Useful Links
 ============
 
-* `Github Repository <https://github.com/AAA3A-AAA3A/AAA3A-cogs>`_
+* `Github Repository <https://github.com/AAA3A-AAA3A/discord-plugins>`_
 
 .. toctree::
     :caption: Repository

@@ -318,10 +318,10 @@ class DashboardRPC:
                     repo = "https://github.com/Cog-Creators/Red-DiscordBot"
                 elif (
                     pathlib.Path(__import__(cog.__module__).__path__[0]).parent.name
-                    == "AAA3A-cogs"
+                    == "discord-plugins"
                 ):  # Handle my repo's clones... :P
                     author = "AAA3A"
-                    repo = "https://github.com/AAA3A-AAA3A/AAA3A-cogs"
+                    repo = "https://github.com/AAA3A-AAA3A/discord-plugins"
             author = (
                 getattr(cog, "__authors__", [])
                 or getattr(cog, "__author__", [])
