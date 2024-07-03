@@ -26,7 +26,7 @@ del AAA3A_utils
 # needed_utils_version = data["needed_utils_version"]
 # if __version__ > needed_utils_version:
 #     raise errors.CogLoadError(
-#         "The needed utils to run the cog has a higher version than the one supported by this version of the cog. Please update the cogs of the `discord-plugins` repo."
+#         "The needed utils to run the cog has a higher version than the one supported by this version of the cog. Please update the cogs of the `AAA3A-cogs` repo."
 #     )
 # elif __version__ < needed_utils_version:
 #     raise errors.CogLoadError(

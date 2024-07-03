@@ -13,7 +13,7 @@ from .dashboard_integration import DashboardIntegration
 # Credits:
 # General repo credits.
 # Thanks to @AverageGamer on Discord for the cog idea and the code to find the external ip!
-# Thanks to @Flanisch on GitHub for the use of Wikipedia headers instead of the site found before (https://github.com/AAA3A-AAA3A/discord-plugins/pull/)!
+# Thanks to @Flanisch on GitHub for the use of Wikipedia headers instead of the site found before (https://github.com/AAA3A-AAA3A/AAA3A-cogs/pull/)!
 
 _ = Translator("Ip", __file__)
 

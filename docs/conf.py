@@ -6,7 +6,7 @@ templates_path = ["_templates"]
 html_context = {
     "display_github": True,
     "github_user": "AAA3A-AAA3A",
-    "github_repo": "discord-plugins",
+    "github_repo": "AAA3A-cogs",
     "github_version": "main",
 }
 
@@ -17,6 +17,6 @@ master_doc = "index"
 exclude_patterns = []
 add_function_parentheses = True
 
-project = "discord-plugins"
+project = "AAA3A-cogs"
 copyright = "2022 | AAA3A"
 html_logo = "image_cog-creators-logo.png"

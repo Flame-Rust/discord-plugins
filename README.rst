@@ -18,7 +18,7 @@ Next, let's add my repository to your system.
 
 .. code-block:: ini
 
-    [p]repo add AAA3A https://github.com/AAA3A-AAA3A/discord-plugins
+    [p]repo add AAA3A https://github.com/AAA3A-AAA3A/AAA3A-cogs
 
 To install a cog, use this command, replacing <cog> with the name of the cog you wish to install:
 
@@ -82,7 +82,7 @@ If you have ideas, you can open a problem. If you have coded new features, make 
 Translate my cogs
 -----------------
 
-The associated crowdin project is available at this address: https://crowdin.com/project/discord-plugins
+The associated crowdin project is available at this address: https://crowdin.com/project/aaa3a-cogs
 
 If you would like to see languages added to this project, please let me know.
 
@@ -90,8 +90,8 @@ If you would like to see languages added to this project, please let me know.
 Support
 -------
 
-Check out my docs `here <https://discord-plugins.readthedocs.io/en/latest/>`_.
-Mention me in the #support_discord-plugins channel in the `cogs support server <https://discord.gg/red-cog-support-240154543684321280>`_ if you need any help.
+Check out my docs `here <https://aaa3a-cogs.readthedocs.io/en/latest/>`_.
+Mention me in the #support_aaa3a-cogs channel in the `cogs support server <https://discord.gg/red-cog-support-240154543684321280>`_ if you need any help.
 Please ping me or contact me in DM.
 Additionally, feel free to open an issue or pull request to this repo.
 
@@ -137,6 +137,6 @@ LICENSE
 
 This repository and its cogs are protected under the MIT License.
 
-For further information, please click `here <https://github.com/AAA3A-AAA3A/discord-plugins/blob/main/LICENSE>`_.
+For further information, please click `here <https://github.com/AAA3A-AAA3A/AAA3A-cogs/blob/main/LICENSE>`_.
 
 Copyright (c) 2021-present AAA3A
